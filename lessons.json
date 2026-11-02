@@ -1,0 +1,17 @@
+{
+  "version":"1.0",
+  "lessons":[
+    {"id":1,"level":"A1","topic":"Daily English","sentence":"How are you doing today?","translation":"Hôm nay bạn thế nào?"},
+    {"id":2,"level":"A1","topic":"Daily English","sentence":"I want to improve my English every day.","translation":"Tôi muốn cải thiện tiếng Anh mỗi ngày."},
+    {"id":3,"level":"A2","topic":"Daily English","sentence":"Could you speak a little more slowly?","translation":"Bạn có thể nói chậm hơn một chút không?"},
+    {"id":4,"level":"B1","topic":"IT English","sentence":"The server is running normally.","translation":"Máy chủ đang hoạt động bình thường."},
+    {"id":5,"level":"B1","topic":"IT English","sentence":"The IT team is investigating the issue.","translation":"Đội IT đang điều tra sự cố."},
+    {"id":6,"level":"B1","topic":"Network","sentence":"Please check the network connection.","translation":"Vui lòng kiểm tra kết nối mạng."},
+    {"id":7,"level":"B2","topic":"Network","sentence":"The VPN tunnel is working normally.","translation":"Đường hầm VPN đang hoạt động bình thường."},
+    {"id":8,"level":"B2","topic":"Network","sentence":"High latency can affect user experience.","translation":"Độ trễ cao có thể ảnh hưởng đến trải nghiệm người dùng."},
+    {"id":9,"level":"B2","topic":"Azure","sentence":"We need to provision a new cloud environment.","translation":"Chúng ta cần cấp phát một môi trường cloud mới."},
+    {"id":10,"level":"B2","topic":"Azure","sentence":"Choose the appropriate Azure region for the workload.","translation":"Hãy chọn Azure region phù hợp cho workload."},
+    {"id":11,"level":"B1","topic":"Business Email","sentence":"Please confirm whether the information is sufficient.","translation":"Vui lòng xác nhận thông tin đã đầy đủ hay chưa."},
+    {"id":12,"level":"B1","topic":"Business Email","sentence":"Could you clarify this requirement?","translation":"Bạn có thể làm rõ yêu cầu này không?"}
+  ]
+}
